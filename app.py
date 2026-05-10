@@ -10,3 +10,8 @@ def add_numbers(a, b):
 
 result = add_numbers(10, 20)
 print("Addition Result:", result)
+def multiply_numbers(a, b):
+    return a * b
+
+product = multiply_numbers(5, 6)
+print("Multiplication Result:", product)
