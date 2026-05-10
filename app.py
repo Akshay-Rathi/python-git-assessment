@@ -15,3 +15,7 @@ def multiply_numbers(a, b):
 
 product = multiply_numbers(5, 6)
 print("Multiplication Result:", product)
+def show_project_status():
+    print("Project status: Feature branch development completed")
+
+show_project_status()
